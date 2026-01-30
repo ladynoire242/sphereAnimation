@@ -1,2 +1,2 @@
 # sphereAnimation
-This animation demonstrates between a bowling ball, tennis ball, and ping pong ball how gravity affects them differently.
+This animation demonstrates how gravity affects a bowling ball, a tennis ball, and a ping pong ball.
